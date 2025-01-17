@@ -16,9 +16,9 @@
         <MenuItem texto="Séries" href="/"/>
 	</Menu>
 	<Menu titulo="Principais Autores">
-		<MenuItem texto="J.R.R. Tolkien" href="" />
-		<MenuItem texto="J.K. Rolling" href="" />
-		<MenuItem texto="George R.R. Martin" href="/autores/george-martin" />
+		<MenuItem texto="J.R.R. Tolkien" href="/autores/j-r-r-tolkien" />
+		<MenuItem texto="J.K. Rolling" href="j-k-rowling" />
+		<MenuItem texto="George R.R. Martin" href="/autores/george-r-r-martin" />
 	</Menu>
 	<Menu titulo="Outras Categorias">
 		<MenuItem texto="Ultimas Noticias" href="/"/>
