@@ -1,4 +1,4 @@
-import autores from "./autores";
+import autores from "./autores.js";
 
 const series = [
   {
